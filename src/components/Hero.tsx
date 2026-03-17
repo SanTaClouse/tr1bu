@@ -15,7 +15,7 @@ export default function Hero({ t }: HeroProps) {
         className="object-cover object-center"
         style={{ opacity: 0.35 }}
         priority
-        quality={90}
+        quality={75}
       />
 
       {/* Dark gradient overlay */}

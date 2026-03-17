@@ -19,6 +19,7 @@ export default function DJSet({ t }: DJSetProps) {
             title='TR1BU - "NEW ERA" DJ Set (Copenhagen, Denmark 2026)'
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
             allowFullScreen
+            loading="lazy"
             className="absolute inset-0 w-full h-full"
           />
         </div>

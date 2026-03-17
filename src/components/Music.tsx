@@ -18,10 +18,10 @@ export default function Music({ t }: MusicProps) {
             <iframe
               width="100%"
               height="166"
-              scrolling="no"
               allow="autoplay"
               src="https://w.soundcloud.com/player/?url=https%3A//soundcloud.com/tr1bu/tr1bu-new-era-dj-set&color=%23cc0000&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"
               title="TR1BU - NEW ERA DJ Set on SoundCloud"
+              loading="lazy"
             />
           </div>
 
