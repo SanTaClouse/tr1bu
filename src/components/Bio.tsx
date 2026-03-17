@@ -14,7 +14,7 @@ export default function Bio({ t }: BioProps) {
             {t.bio.label}
           </p>
           <h2 className="text-4xl md:text-5xl font-black text-white mb-8 tracking-tight">
-            TR1BU
+            TR1BU — Techno DJ · Copenhagen, Denmark
           </h2>
           <p className="text-white/55 leading-relaxed text-lg">
             {t.bio.text}

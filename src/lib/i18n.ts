@@ -26,13 +26,13 @@ export const translations: Record<Lang, T> = {
     },
     bio: {
       label: 'About',
-      text: 'TR1BU is an electronic performative artist based in Copenhagen. Through immersive DJ sets and audiovisual experiences, TR1BU creates intense dancefloor journeys that move between high kinetic energy and deep hypnotic states.',
+      text: 'TR1BU is a techno DJ and electronic performative artist based in Copenhagen, Denmark. Specializing in dark techno, industrial techno, and peak-time club sets, TR1BU creates immersive dancefloor journeys that move between high kinetic energy and deep hypnotic states. Available for bookings at clubs, underground events, and festivals across Copenhagen, Denmark, and Europe.',
     },
     music: { label: 'Music' },
     gallery: { label: 'Gallery' },
     booking: {
       label: 'Booking',
-      text: 'Available for club and underground event bookings.',
+      text: 'Book TR1BU for your club night, underground event, or festival in Copenhagen, Denmark, or Europe. Direct booking inquiries welcome.',
       cta: 'Send Booking Request',
     },
     footer: { rights: '© 2026 TR1BU' },
@@ -51,13 +51,13 @@ export const translations: Record<Lang, T> = {
     },
     bio: {
       label: 'Sobre TR1BU',
-      text: 'TR1BU es un artista performativo electrónico basado en Copenhague. A través de sets de DJ inmersivos y experiencias audiovisuales, TR1BU crea intensos viajes en la pista de baile que oscilan entre la alta energía cinética y los estados hipnóticos profundos.',
+      text: 'TR1BU es un DJ de techno y artista performativo electrónico basado en Copenhague, Dinamarca. Especializado en techno oscuro, techno industrial y sets de club de alta intensidad, TR1BU crea experiencias inmersivas en la pista de baile que oscilan entre la alta energía cinética y los estados hipnóticos profundos. Disponible para contrataciones en clubes, eventos underground y festivales en Copenhague, Dinamarca y Europa.',
     },
     music: { label: 'Música' },
     gallery: { label: 'Galería' },
     booking: {
       label: 'Contrataciones',
-      text: 'Disponible para contrataciones en clubes y eventos underground.',
+      text: 'Contrata a TR1BU para tu noche de club, evento underground o festival en Copenhague, Dinamarca o Europa. Consultas directas bienvenidas.',
       cta: 'Enviar Solicitud',
     },
     footer: { rights: '© 2026 TR1BU' },
